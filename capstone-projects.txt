@@ -1,0 +1,8 @@
+Project 1:
+		from the past weather data, i.e., https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table , download the past data for daily temperature and precipitation.  Using supervised machine learning approach, a predication of weather(temperature and/or precipitation) to be generated and is of good value in terms of the snowy days because in southern parts of US it is not quite used to drive in the snowy days due to slippery roads. This is to be useful for companies in southern states such as Alabama, it is wise to inform the employees ahead of snow days and avoid traffic accidents and make arrangements to modify business schedules accordingly. The model will predict if some future days will snow or not. 
+		
+	
+Project 2: 
+		
+		
+		
