@@ -3,6 +3,6 @@ Project 1:
 		
 	
 Project 2: 
-		
+		From the data for parking ticket in the past 8 years in city of Vancouver, i.e, http://data.vancouver.ca/datacatalogue/parking-tickets.htm , which tell us the trend of these tickets for instance, the most tickets issued areas, the time windows the tickets dominate and streets are most concerned. From these information one can predict the parking ticket distribution in terms of the location, time and types of reasons. By using such information police will greatly save a lot of resources to hunt down those violations. 
 		
 		
