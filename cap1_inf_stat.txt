@@ -1,0 +1,10 @@
+Questions to ask about the parking tickets dataset:
+1. For all tickets, what are the states with most violations where registration plates issued? Which state seems odd compared to other states?
+2. which area/streets where most violations happened?
+
+inferential statistics steps performed and findings:
+1. histogram was plotted for registration states, with New York the most violations and surprising to find Florida as the 4th most violations since for the top 10 states, Florida is the farthest state from New York city. 
+
+2. By plotting a scatter plot (violations versus the distance from the New York City), initially we discovered that further the distance from the states automobiles registered, there are less parking tickets issued for those automobiles. It was discovered it is an exponential decay type of relationship
+ 
+3. Therefore we did a further research to verify the above findings. In detail, the data was reorganized with violations versus the reciprocal of distance. By plotting this reorganized data, violations seems a linear relationship with reciprocal of distance. The linear model is found that R-squared equals to 0.559, meaning 55.9% variance contribution explained by this model. Meanwhile, the p values for intercept is 0.019 and p value for slope is 0.000, both slope and intercept are significant. In general, the linear regression model explains pretty well the linear relationship between number of violations(parking tickets) and reciprocal distance from the New York City. 
