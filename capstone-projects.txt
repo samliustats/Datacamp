@@ -23,7 +23,16 @@ Project 2:
 	The well known Kaggle competition  
 project: Bank Marketing in link here,   
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
-The data was imbalanced in UCI. The project aims to make a classification prediction, i.e, who will make deposit. The variables include 20 predictors and 1 desired target. These 21 variables contain both numeric and categorical types. There are 45211 rows of data. I plan to utilize machine learning such as logistic regression, random forest and other models to systematically investigate the importance of the predictors and select the important variables. Then comparison among these models entails the merits for each model. 
+
+The data was imbalanced in UCI. The project aims 
+to make a classification prediction, i.e, who will
+make deposit. The variables include 20 predictors and
+1 desired target. These 21 variables contain both 
+numeric and categorical types. There are 45211 rows of data. 
+I plan to utilize machine learning such as logistic regression,
+random forest and other models to systematically investigate 
+the importance of the predictors and select the important variables. 
+Then comparison among these models entails the merits for each model. 
 
 
 
