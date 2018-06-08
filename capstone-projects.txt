@@ -1,8 +1,49 @@
 Project 1:
-		from the past weather data, i.e., https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table , download the past data for daily temperature and precipitation.  Using supervised machine learning approach, a predication of weather(temperature and/or precipitation) to be generated and is of good value in terms of the snowy days because in southern parts of US it is not quite used to drive in the snowy days due to slippery roads. This is to be useful for companies in southern states such as Alabama, it is wise to inform the employees ahead of snow days and avoid traffic accidents and make arrangements to modify business schedules accordingly. The model will predict if some future days will snow or not. 
+	From the past weather data, i.e.,  
+https://www.climate.gov/maps- 
+data/dataset/past-weather-zip-code-data- 
+table , download the past data for daily  
+temperature and precipitation.  Using  
+supervised machine learning approach, a  
+predication of weather(temperature and/or  
+precipitation) to be generated and is of  
+good value in terms of the snowy days  
+because in southern parts of US it is not  
+quite used to drive in the snowy days due  
+to slippery roads. This is to be useful  
+for companies in southern states such as  
+Alabama, it is wise to inform the  
+employees ahead of snow days and avoid  
+traffic accidents and make arrangements to  
+modify business schedules accordingly. The  
+model will predict if some future days  
+will snow or not. 
 		
+Project 2:
+	The well known Kaggle competition  
+project: Bank Marketing in link here,   
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+The data was imbalanced in UCI. The project aims to make a classification prediction, i.e, who will make deposit. The variables include 20 predictors and 1 desired target. These 21 variables contain both numeric and categorical types. There are 45211 rows of data. I plan to utilize machine learning such as logistic regression, random forest and other models to systematically investigate the importance of the predictors and select the important variables. Then comparison among these models entails the merits for each model. 
+
+
+
+
+
 	
-Project 2: 
-		From the data for parking ticket in the past 8 years in city of Vancouver, i.e, http://data.vancouver.ca/datacatalogue/parking-tickets.htm , which tell us the trend of these tickets for instance, the most tickets issued areas, the time windows the tickets dominate and streets are most concerned. From these information one can predict the parking ticket distribution in terms of the location, time and types of reasons. By using such information police will greatly save a lot of resources to hunt down those violations. 
+Project 3: 
+	From the data for parking ticket  
+in the past 8 years in city of Vancouver,  
+i.e,  
+http://data.vancouver.ca/datacatalogue/par 
+king-tickets.htm , which tell us the trend  
+of these tickets for instance, the most  
+tickets issued areas, the time windows the  
+tickets dominate and streets are most  
+concerned. From these information one can  
+predict the parking ticket distribution in  
+terms of the location, time and types of  
+reasons. By using such information police  
+will greatly save a lot of resources to  
+hunt down those violations. 
 		
 		
