@@ -1,0 +1,15 @@
+
+In big cities such as Vancouver, for safer and ordered traffic and environment, it is good for police to keep parking of vehicles in order. To better managing the time windows when and where the parking issues arising, one needs better understanding these situation by utilizing the data acquired over past years. 
+
+This project aims to meet this demand and police department of cities take advantage of this study to track these parking violations by saving lots of resources. 
+
+In this project, the data is obtained via http://data.vancouver.ca/datacatalogue/parking-tickets.htm provided by city of Vancouver. These data are then cleaned and information are obtained and plotted offering visualization by Matplotlib, Pandas and Numpy. 
+
+It will answer questions: 
+1. At what streets are mostly parking laws violated? 
+2. Which laws are violated for all parking tickets? 
+3. How about the payments for those tickets? What percentage of tickets are paid? What percentage of tickets are warnings (no penalty)?
+
+
+
+		
